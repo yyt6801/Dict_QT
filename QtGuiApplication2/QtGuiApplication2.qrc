@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtGuiApplication2">
+        <file>Resources/DICT/Z/Z.TXT</file>
+        <file alias="xingcoin">Resources/xing.ico</file>
+    </qresource>
+</RCC>
